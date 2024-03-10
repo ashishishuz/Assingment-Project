@@ -19,8 +19,11 @@
             </div>
           </div>
           <div>
-            <Icon name="ph:dots-three-bold" color="gray" />
-            <Icon name="ep:plus" color="gray" />
+            <Icon
+              name="ph:dots-three-bold"
+              style="font-size: 20px; color: gray"
+            />
+            <Icon name="ep:plus" style="font-size: 15px; color: gray" />
           </div>
         </div>
 
@@ -59,8 +62,11 @@
             </div>
           </div>
           <div>
-            <Icon name="ph:dots-three-bold" color="gray" />
-            <Icon name="ep:plus" color="gray" />
+            <Icon
+              name="ph:dots-three-bold"
+              style="font-size: 20px; color: gray"
+            />
+            <Icon name="ep:plus" style="font-size: 15px; color: gray" />
           </div>
         </div>
 
@@ -98,8 +104,11 @@
             </div>
           </div>
           <div>
-            <Icon name="ph:dots-three-bold" color="gray" />
-            <Icon name="ep:plus" color="gray" />
+            <Icon
+              name="ph:dots-three-bold"
+              style="font-size: 20px; color: gray"
+            />
+            <Icon name="ep:plus" style="font-size: 15px; color: gray" />
           </div>
         </div>
 
